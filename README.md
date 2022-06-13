@@ -7,19 +7,28 @@
 ---
 ## Welcome to my GitHub!
 
-
 Connect with me 
 
-<a href="www.linkedin.com/in/michellesalazar010" ><img src="img/icons8-linkedin-circled-64.png"></a>
+<a href="https://www.linkedin.com/in/michellesalazar010" ><img src="img/icons8-linkedin-circled-64.png"></a>
 
 ---
 ### My Journey
+
+
+[Code Fellows](https://www.codefellows.org/) Advanced Software Development in Python **Jan 2022 - June 2022**
 
 ---
 ### Projects
 
 ---
 ### Recommended Learnings
+
+---
+### Learning Links
+[freeCodeCamp](https://www.freecodecamp.org/news)
+
+---
+### CheatSheets to Live by
 
 ---
 &copy;2022MISalz
