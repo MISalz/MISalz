@@ -11,6 +11,7 @@ Connect with me
 
 <a href="https://www.linkedin.com/in/michellesalazar010" ><img src="img/icons8-linkedin-circled-64.png"></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MISalz&show_icons=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### My Journey
 
